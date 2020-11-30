@@ -53,7 +53,7 @@ For those who are interested in contributing to this project, such as:
 - fix a bug
 - implement a new feature
 
-Please refer to our [contributing guide](https://github.com/FEMessage/.github/blob/main/CONTRIBUTING.md).
+Please refer to our [contributing guide](https://github.com/FEComponents/.github/blob/main/CONTRIBUTING.md).
 
 [⬆ Back to Top](#table-of-contents)
 
